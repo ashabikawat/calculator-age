@@ -1,1 +1,76 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: cursive;
+}
 
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  background-color: #0e2f2f;
+  border: 1px solid black;
+  width: 80rem;
+  height: 40rem;
+  margin-left: 40rem;
+  margin-top: 10rem;
+  padding: 2rem 4rem;
+  border-radius: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px,
+    rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px,
+    rgba(0, 0, 0, 0.07) 0px 16px 16px;
+}
+
+.box {
+  margin: 0 0 0 20rem;
+}
+
+.container h2 {
+  font-size: 3.2rem;
+  margin-bottom: 5rem;
+  color: orange;
+  text-align: center;
+}
+
+.age-label {
+  color: #fff;
+  font-size: 2rem;
+  margin-right: 3.2rem;
+}
+
+.date {
+  background-color: rgb(174, 166, 166);
+  color: #fff;
+  font-size: 1.6rem;
+  border-radius: 1rem;
+  margin-bottom: 3.2rem;
+}
+
+.btn {
+  background-color: rgb(244, 174, 44);
+  color: #fff;
+  border: 1px solid transparent;
+  padding: 1rem 1.4rem;
+  font-size: 1.6rem;
+  border-radius: 1rem;
+  margin-bottom: 3.2rem;
+  margin-right: 3rem;
+}
+
+.container p {
+  color: #fff;
+  font-size: 2rem;
+  margin-bottom: 8rem;
+}
+
+.icon {
+  margin-left: 3.4rem;
+}
+
+.icons {
+  font-size: 2.2rem;
+  color: #fff;
+  margin-right: 1.6rem;
+}
